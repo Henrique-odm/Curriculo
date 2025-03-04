@@ -1,5 +1,19 @@
 # Currículo
+
 RESUMO PESSOAL
-Desde 2018 me tornei investidor no mercado de renda variável, e desde 2021 atuei como analista de investimentos na empresa FX OPEN e com essa jornada adquiri grande conhecimento. Conclui um curso técnico de investimento específico no mercado financeiro, ministrado por um profissional certificado pela CVM Brasil.
-Dedico algumas horas da minha rotina diária para focar nos meus estudos, com o objetivo de concluir um projeto de operações automatizadas, para trading em opções (derivativos), no mercado americado.
-Busco uma oportunidade dentro do mercado financeiro, pois tenho imenso amor pela profissão e habilidades muito valiosas que  contribuiriam para o sucesso de uma organização.
+Profissional com sólida experiência em gestão financeira e investimentos, especializado em automação de processos e desenvolvimento de algoritmos para análise e 
+execução de estratégias no mercado financeiro. Habilidade em programação Python aplicada a Finanças, otimização de portfólios e modelagem de derivativos. Atualmente, 
+desenvolvendo soluções inovadoras para trading automatizado e operações com derivativos no mercado americano.
+
+PROJETOS RELEVANTES
+- Robô de Day Trading para Criptomoedas, Moedas Tradicionais e Ações
+- Robô para Montagem de Estruturas em Derivativos (Opções) no Mercado Americano
+  
+HABILIDADES
+- Análise Financeira e Gestão de Riscos
+- Automação de Processos em Python
+- Modelagem e Valoração de Derivativos
+- Estratégias Quantitativas para Investimentos
+- Machine Learning aplicado a Finanças
+- Backtesting e Simulações de Estratégias
+
